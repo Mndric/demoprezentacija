@@ -42,3 +42,5 @@ Predmet: Akademsko i tehničko pisanje
 - Spor s velikim bazama kodova
 - Neprikladan za razvoj velikih i kompliciranih projekata
 ---
+
+### **ŠTO SAM NAUČILA U PYTHON IDLE-U?**
