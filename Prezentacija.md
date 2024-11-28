@@ -21,6 +21,8 @@ Predmet: Akademsko i tehničko pisanje
 3. Preuzeti Python IDLE paket
 4. Preuzeti paket kako bismo ga pokrenuli
 5. Provjera je li aplikacija instalirana
+
+![Instalacija programa](img/1_slika_za_instaliranje_programa.PNG)
 ---
 
 ## **GLAVNE ZNAČAJKE PYTHON IDLE-A**
