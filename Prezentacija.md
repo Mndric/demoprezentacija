@@ -15,14 +15,16 @@ Predmet: Akademsko i tehničko pisanje
 - Obrazovni kontekst
 ---
 
-## **KAKO INSTALIRATI PYTHON IDLE?**
+## KAKO INSTALIRATI PYTHON IDLE?
+![Instalacija programa](img/1_slika_za_instaliranje_programa.PNG)
+
 1. Posjetiti web stranicu: https://www.python.org/downloads/
 2. Kliknuti na Downloads i odabrati svoj OS
 3. Preuzeti Python IDLE paket
 4. Preuzeti paket kako bismo ga pokrenuli
 5. Provjera je li aplikacija instalirana
 
-![Instalacija programa](img/1_slika_za_instaliranje_programa.PNG)
+
 ---
 
 ## **GLAVNE ZNAČAJKE PYTHON IDLE-A**
